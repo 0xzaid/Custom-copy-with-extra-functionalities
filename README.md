@@ -1,5 +1,7 @@
 # Linux more/less/cp commands
 
+A custom C program that replicates the functionality of more, less, and cp Linux commands 
+
 COMPILE
 	
 	gcc util.c -o util
