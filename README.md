@@ -1,5 +1,9 @@
 # Linux more/less/cp commands
 
+COMPILE
+	
+	gcc util.c -o util
+
 NAME
 	
 	util - view and copy files
